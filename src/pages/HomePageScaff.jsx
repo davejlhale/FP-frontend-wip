@@ -20,7 +20,7 @@ const HomepageScaff = () => {
     return (
         <PageContainer id="homepage">
 
-     
+    
 {/* add nothing above here */}      
 {togStatus===1 ? 
             <div>
@@ -57,19 +57,19 @@ const HomepageScaff = () => {
 
                 <div className="level1">
                     <div >
-                        <img alt="" />
+                        <img alt="image" src="" />
                         <div >
                             text
                         </div>
                     </div>
                     <div  >
-                        <img alt="" />
+                        <img alt="image" src=""/>
                         <div >
                             text
                         </div>
                     </div>
                     <div  >
-                        <img alt="" />
+                        <img alt="image" src=""/>
                         <div >
                             text
                         </div>
@@ -82,7 +82,7 @@ const HomepageScaff = () => {
 
                 <div className="level1">
                     <div >
-                        <img alt="" />
+                        <img alt="image" src=""/>
                         <p> text</p>
                         <button />
                     </div>
@@ -99,10 +99,10 @@ const HomepageScaff = () => {
                         <p> </p>
                         <div>
                             <div >
-                                <img alt="" />
-                                <img alt="" />
-                                <img alt="" />
-                                <img alt="" />
+                                <img alt="image" src=""/>
+                                <img alt="image" src=""/>
+                                <img alt="image" src=""/>
+                                <img alt="image" src=""/>
                             </div>
                         </div>
                         <div  >
@@ -110,7 +110,7 @@ const HomepageScaff = () => {
                                 <p>text</p>
                             </div>
                             <div >
-                                <img alt="" />
+                                <img alt="image" src=""/>
                             </div>
                         </div>
                     </div>
